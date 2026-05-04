@@ -1,6 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/27331260/README.1.md)
 # RISC-SINGLE-CYCLE-CORE
-# 32-bit Single Cycle RISC-V Processor
 
 A fully functional 32-bit single cycle RISC-V processor implemented in Verilog HDL, supporting a subset of the RV32I instruction set. Designed and simulated using Icarus Verilog and GTKWave.
 
